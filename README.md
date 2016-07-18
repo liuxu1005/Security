@@ -1,4 +1,4 @@
 # Security
-Plan to following MIT 6.857 &amp; 6.858
+Plan to following MIT 6.858
 
 
