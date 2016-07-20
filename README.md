@@ -1,4 +1,4 @@
-# Security
-Plan to following MIT 6.858
+# Security is ongoing
+Following MIT 6.858
 
 
